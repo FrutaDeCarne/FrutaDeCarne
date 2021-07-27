@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FrutaDeCarne
+- 👀 I’m interested in videogame development.
+- 🌱 I’m currently learning the basics.
+- 💞️ I’m looking to collaborate on Story focused videogames.
+- 📫 You can reach me via mail at aciarlozosi@gmail.com
